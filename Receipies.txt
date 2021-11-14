@@ -4,7 +4,7 @@ welcome to telescko lkitchen
 
 kheer
 Pasta
-Cjicken fry
+Checken fry
 
 bean
 pizza
@@ -12,4 +12,5 @@ pizza
 
 thank you:)
 
-done my changes
+Final Copy...
+
